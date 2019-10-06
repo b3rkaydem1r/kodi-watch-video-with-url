@@ -11,4 +11,4 @@ Just you need video url. Send it. It will play soon.<br>
 Go Kodi -> Install plugin from zip file -> Select zip file and start the plugin.<br>
 Type video url to plugin.<br>
 
-I'm using this on Orange Pi -> Openelec. It's for home movie system.
+I'm using this on Orange Pi -> LibreElec. It's for home movie system.
